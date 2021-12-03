@@ -1,0 +1,7 @@
+{
+  "name": "novia_week10_crossmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
